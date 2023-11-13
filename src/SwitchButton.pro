@@ -8,7 +8,6 @@ DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs depr
 
 VERSION = 1.0.0
 QMAKE_TARGET_PRODUCT = SwitchButton
-QMAKE_TARGET_COPYRIGHT = CM0use
 
 SOURCES += \
     main.cpp \
