@@ -1,16 +1,22 @@
-<h1 align="center">
-  SwitchButton<br>
+<!--
+*** If you like this README,
+*** it is available as a template in my repositories,
+*** here is the link:
+*** https://github.com/CM0use/README-TEMPLATE
+-->
+<h1 align="center">SwitchButton</h1>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Windows-0078d7?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows">
   <img src="https://img.shields.io/badge/mac%20OS-313131?style=for-the-badge&logo=macos&logoColor=d7d7d7" alt="macOS">
   <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux">
   <br>
-  <a href="https://github.com/CM0use/SwitchButton/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge" alt="License GPLv3">
-  </a>
-</h1>
+  <a href="https://github.com/CM0use/SwitchButton/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge"></a>
+</p>
+
+<p align="center"><i>Implementation of Material Design 2 for the Switch component.</i></p>
 
 <p align="center">
-  Implementation of Material Design 2 for the Switch component.<br>
   <a href="#features">Features</a> •
   <a href="#description">Description</a> •
   <a href="#use">Use</a> •
